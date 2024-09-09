@@ -40,7 +40,7 @@ section {
 }
 
 /*---------LOADING------------*/
-/* body.loaded {
+body.loaded {
     overflow: overlay;
 }
 
@@ -89,7 +89,7 @@ section {
     100% {
         transform: rotate(1turn);
     }
-} */
+}
 
 /*-------------HEADER---------------*/
 .header {
