@@ -2,6 +2,15 @@
     html {
         font-size: 13px;
     }
+
+    .home-content h3 {
+        font-size: 1rem;
+        line-height: 1.5;
+    }
+
+    .home-content h1 {
+        font-size: 1rem;
+    }
 }
 
 @media (max-width: 1050px) {
